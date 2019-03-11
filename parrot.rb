@@ -2,10 +2,4 @@
 # returns the phrase
 
 def parrot(phrase, *p)
-  puts phrase
-  
-  else 
-     return "Squawk!"
-  end
 end
-
