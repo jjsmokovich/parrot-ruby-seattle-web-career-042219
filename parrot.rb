@@ -2,8 +2,7 @@
 # returns the phrase
 
 def parrot(phrase, *p)
-  if phrase == nil 
-     "Squawk!"
+  puts phrase
   else 
      return "Squawk!"
   end
